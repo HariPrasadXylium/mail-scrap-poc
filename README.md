@@ -14,6 +14,7 @@ Prerequisites:
 ```bash
 git clone https://github.com/HariPrasadXylium/mail-scrap-poc.git
 cd mail-scrap-poc
+git fetch && git checkout "develop"
 ```
 
 2. Install dependencies:
